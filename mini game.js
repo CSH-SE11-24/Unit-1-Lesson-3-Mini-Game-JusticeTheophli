@@ -1,0 +1,6 @@
+let name = prompt("what's your name?")
+console.log ("Welcome to my game, " + name)
+let role = prompt("What role do you want? (magician, fighter, and peasant)")
+console. log(`Okay, ${name}, your role is now ${role}. `) 
+let powerLevel = prompt( "What is your power level?")
+powerLevel = parseInt(powerLevel)
